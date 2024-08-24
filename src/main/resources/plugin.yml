@@ -1,0 +1,5 @@
+main: dev.slohth.upsidedown.UpsideDown
+name: UpsideDown
+version: 1.0
+api-version: 1.21
+author: slohth
